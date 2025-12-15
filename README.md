@@ -1,1 +1,1 @@
-This is my first Java project and firsr repository
+This is my first Java project and First repository
